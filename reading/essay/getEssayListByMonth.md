@@ -7,7 +7,7 @@ http://v3.wufazhuce.com:8000/api/essay/bymonth/${year}-${month}
 ## 参数
 + year    ————>     年份
 + month   ————>     月份
-+ 注意: 音乐是2012年10月才开始有的, 所有如果请求年月份小于2012年10月的话, 将返回一个空列表
++ 注意: 短篇文章是2012年10月才开始有的, 所有如果请求年月份小于2012年10月的话, 将返回一个空列表
 
 ## 请求示例
 + http://v3.wufazhuce.com:8000/api/essay/bymonth/2016-10
