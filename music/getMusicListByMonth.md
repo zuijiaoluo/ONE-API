@@ -391,4 +391,4 @@ JSON
 |       music_id	|       String	    |                   |
 |       author	    |       Object      |                   |
 
-## [关于platform跟music_id字段](./musicDetail.md)
+## [关于platform跟music_id字段](./musicDetail.md#关于platform跟music_id字段)
