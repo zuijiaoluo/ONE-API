@@ -7,7 +7,7 @@ http://v3.wufazhuce.com:8000/api/movie/${id}/story/1/0
 ## 参数
 电影id
 
-## 请求示范
+## 请求示例
 + http://v3.wufazhuce.com:8000/api/movie/145/story/1/0
 
 ## HTTP请求方式

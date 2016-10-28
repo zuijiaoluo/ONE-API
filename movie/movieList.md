@@ -8,7 +8,7 @@ http://v3.wufazhuce.com:8000/api/movie/list/${id}
 ONE APP中分页拉取规则都是一样的, 拉取第一页时id字段一定得传0, 会返回一个电影信息列表, 列表中每一项都会有一个id字段, 拉取第n页时id等于上一次所拉取到的列表最后一项的id,
 比如, 第一次拉取到的列表最后一项电影信息id字段等于198, 则拉取第二页时令id == 198. 当返回列表为空时, 则代表没有下一页数据了
 
-## 请求示范
+## 请求示例
 + http://v3.wufazhuce.com:8000/api/movie/list/0
 
 ## HTTP请求方式
@@ -278,7 +278,7 @@ JSON
 |       verse_en    |	    String      |                   |
 |       score       |	    String      |	                |
 |       revisedscore|	    String      |	                |
-|       releasetime |	    String      |	2016-10-21 00:00:00|
-|       scoretime	|       String      |	2016-10-22 00:00:00|
+|       releasetime |	    String      |	格式(2016-10-21 00:00:00)|
+|       scoretime	|       String      |	格式同上        |
 |       cover       |	    String      |	封面图片        |
 |       servertime  |	    Integer     |	                |
