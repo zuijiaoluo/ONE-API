@@ -1,5 +1,5 @@
 
-# 请求首页中展示的图文列表id
+# 请求首页中展示的图文id列表
 
 ## URL
 http://v3.wufazhuce.com:8000/api/hp/idlist/0

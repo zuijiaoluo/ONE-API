@@ -6,7 +6,7 @@
 该文档源自于我之前所做的一个基于[React-Native](https://github.com/facebook/react-native)框架的跨平台APP, 这套程序代码兼容iOS、Android双平台，实现了[「ONE · 一个」](http://www.wandoujia.com/apps/one.hh.oneclient)80%的功能，包含图文、阅读、音乐、电影四大版块的功能，如果想更加详细地了解，请点击[ReactNativeOne](https://github.com/lipeiwei-szu/ReactNativeOne)
 
 ## API说明
-+ 获取该接口文档的软硬件环境是Mac、Charles抓包软件、Android版「ONE · 一个」V3.5.0版本的APP
++ 获取该接口文档的软硬件环境是Mac、Charles抓包软件、Android端「ONE · 一个」V3.5.0版本的APP
 + 「ONE · 一个」的消息以 JSON 格式输出
 + 到目前为止，我开发这个APP所使用到的API HTTP Method 均为 GET
 
